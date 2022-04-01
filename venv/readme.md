@@ -1,0 +1,1 @@
+in this 'special project' i learn how to create tables, connections between them and normalize their form
